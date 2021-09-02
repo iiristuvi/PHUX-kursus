@@ -24,7 +24,7 @@ Eduka digiettevõtte sisekultuur ja töökorraldus (ka kriisi ajal)(Anu Einberg,
 
 Kasutajakogemuse testimine ja hindamine (Hegle Sarapuu-Johanson, Trinidad Wiseman) - https://panopto.ut.ee/Panopto/Pages/Viewer.aspx?id=ec367062-f5fc-4275-81eb-ad600134499e#
 
-Kasutaja tagasiside rakendamine (Kalev Kärpuk, Adact) - https://panopto.ut.ee/Panopto/Pages/Viewer.aspx?id=c206f76b-d1cc-4d53-ab0a-ad600144aebb#
+Gamification (Kalev Kärpuk, Adact) - https://panopto.ut.ee/Panopto/Pages/Viewer.aspx?id=c206f76b-d1cc-4d53-ab0a-ad600144aebb#
 
 # Lingid online materjalidele
 
