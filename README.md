@@ -1,4 +1,5 @@
 # PHUX-kursus
+![banner](phux_BANNER.png)
 # Aitäh Haridus- ja noorteameti IT-akadeemiale, kes aitas selle kursuse teoks teha :)
 
 # Psühholoogia roll digitoodete loomises (TÜ)
